@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Kalashbheda
-- 👀 I’m interested in electronics and VLSI
-- 🌱 I’m currently learning robotics using microcontroller,pcb designing
-- 💞️ I’m looking to collaborate on hardware projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am an Electronics and Telecommunication Engineering student at DJ Sanghvi College of Engineering (DJSCE) with a deep interest in VLSI, embedded systems, and robotics. My journey in electronics began with hands-on projects using Arduino, ESP32, and microcontrollers, where I worked with sensors and actuators to develop automation and IoT-based applications. These projects have strengthened my skills in hardware programming, circuit design, and wireless communication, helping me bridge the gap between theory and real-world applications.
 
-<!---
-Kalash4152/Kalash4152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+At DJSCE, I am an active member of DJS Kronos, the college’s ATV (All-Terrain Vehicle) building team, where I apply my electronics expertise to enhance vehicle systems, integrating embedded solutions for efficiency and performance. Additionally, I am a part of DJSCE E-Cell, where we innovate, mentor startups, and drive marketing strategies to support budding entrepreneurs.
+
+Beyond microcontrollers, I am passionate about semiconductors, hardware design, and automation, aspiring to specialize in VLSI and embedded systems. I actively seek opportunities through research, internships, and hackathons to push the boundaries of technology.
+
+I am always eager to learn, collaborate, and innovate in the field of core electronics and embedded systems. Feel free to explore my projects and connect with me to discuss technology, startups, and innovation!
